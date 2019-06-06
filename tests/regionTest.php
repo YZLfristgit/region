@@ -11,5 +11,4 @@ use yupoxiong\region\Region;
 $region = new Region();
 $result = $region->getRegion();
 
-var_dump($result);
-echo "xxx";
+echo "s";
