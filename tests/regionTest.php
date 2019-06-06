@@ -12,3 +12,4 @@ $region = new Region();
 $result = $region->getRegion();
 
 echo "s";
+echo "g";
