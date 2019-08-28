@@ -12,3 +12,4 @@ $region = new Region();
 $result = $region->getRegion();
 
 var_dump($result);
+var_dump('123');
